@@ -1,29 +1,41 @@
-name: Beat Rooster
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.32253
-title: Proovin teenust
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0
+title: Proovin teenust
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 1
+  brandStrength: 1
+  rhythmicContrast: 1
   brandColors:
     - '#E1E0DF'
     - '#6E6F77'
     - '#17171E'
     - '#00FF01'
     - '#0101B4'
-  brandStrength: 1
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
 purpose: []
+favicon: null
+name: Beat Rooster
+typography_spectrum: 0.32253
