@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Beat Rooster]]></title>
-        <description><![CDATA[Beat Rooster]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Proovin teenust]]></title>
+        <description><![CDATA[Proovin teenust]]></description>
+        <link>https://thegrid.ai/beat-rooster/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 09:09:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 09:15:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/beat-rooster/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24f68a93-02df-45d5-8352-6ce9812ba806.png">]]></description>
-            <link>undefined3d6a7013-d098-437b-bd5b-7ae02e77535b/index.html</link>
+            <title><![CDATA[Mingi pealkiri vist]]></title>
+            <description><![CDATA[<article><h1>Mingi pealkiri vist</h1><p>Proovime lisada teksti Beat Rooster lehele.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8416193d0d98fc1677ed3060d01663c7447fb895.png"></article>]]></description>
+            <link>https://thegrid.ai/beat-rooster/3d6a7013-d098-437b-bd5b-7ae02e77535b/index.html</link>
             <guid isPermaLink="false">3d6a7013-d098-437b-bd5b-7ae02e77535b</guid>
-            <pubDate>Wed, 03 Feb 2016 09:08:52 GMT</pubDate>
+            <pubDate>Wed, 03 Feb 2016 09:15:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
